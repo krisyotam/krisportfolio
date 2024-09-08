@@ -1,0 +1,16 @@
+[
+    {
+        "id":1,
+        "coursename":"Computer Information Systems, Cybersecurity",
+        "courseyear":"2022",
+        "institute":"DeVry University",
+        "grade":"98% Percentage"
+    },
+    {
+        "id":2,
+        "coursename":"Pure Mathematics",
+        "courseyear":"2024",
+        "institute":"Indiana University",
+        "grade":"95% Percentage"
+    }
+]

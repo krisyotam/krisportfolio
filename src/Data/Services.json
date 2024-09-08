@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "servicename": "Graphic Design",
+    "imgg": "https://raw.githubusercontent.com/poojagarva28/myportfolio/master/src/Data/Serviceimg/graphic-design.png"
+  },
+  {
+    "id": 2,
+    "servicename": "Interface / Web Design",
+    "imgg": "https://raw.githubusercontent.com/poojagarva28/myportfolio/master/src/Data/Serviceimg/web-design.png"
+  },
+  {
+    "id": 3,
+    "servicename": "Full-Stack Web Development",
+    "imgg": "https://raw.githubusercontent.com/poojagarva28/myportfolio/master/src/Data/Serviceimg/web-development.png"
+  },
+  {
+    "id": 4,
+    "servicename": "Systems Developer / Compiler Engineer",
+    "imgg": "https://raw.githubusercontent.com/poojagarva28/myportfolio/master/src/Data/Serviceimg/web-development.png"
+  },
+  {
+    "id": 5,
+    "servicename": "Machine Learning",
+    "imgg": "https://raw.githubusercontent.com/poojagarva28/myportfolio/master/src/Data/Serviceimg/web-development.png"
+  },
+  {
+    "id": 6,
+    "servicename": "Penetration Testing",
+    "imgg": "https://raw.githubusercontent.com/poojagarva28/myportfolio/master/src/Data/Serviceimg/web-development.png"
+  },
+  {
+    "id": 7,
+    "servicename": "Algorithmic Programmer",
+    "imgg": "https://raw.githubusercontent.com/poojagarva28/myportfolio/master/src/Data/Serviceimg/web-development.png"
+  },
+  {
+    "id": 8,
+    "servicename": "Software Engineer",
+    "imgg": "https://raw.githubusercontent.com/poojagarva28/myportfolio/master/src/Data/Serviceimg/web-development.png"
+  },
+  {
+    "id": 8,
+    "servicename": "Prompt Engineer",
+    "imgg": "https://raw.githubusercontent.com/poojagarva28/myportfolio/master/src/Data/Serviceimg/web-development.png"
+  }
+]
