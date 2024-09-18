@@ -1,30 +1,30 @@
 [
   {
     "id": 1,
-    "year": "Aug, 2023 - Present",
-    "companyname": "AV DEVS Solutions",
-    "position": "Software Engineer | Full Time",
-    "desc": "-  TypeScript · Next.js · Tailwind CSS · React.js · HTML5 · css3 · JavaScript"
+    "year": "Mar, 2024 - Present",
+    "companyname": "Private Contractor",
+    "position": "Pentester | Freelance",
+    "desc": "- Conducted security assessments and vulnerability analyses for various clients \n - Utilized tools such as Metasploit, Burp Suite, and Nessus \n - Provided detailed reports and remediation recommendations"
   },
   {
     "id": 2,
-    "year": "Dec, 2022 - July, 2023",
-    "companyname": "Webbrains Technologies",
-    "position": "MERN Stack Developer | Full Time",
-    "desc": "- Wrote front-end and back-end code, integrated with 3+ frameworks and REST APIs, handled file uploads, authentication process and CRUD operations."
+    "year": "Jan, 2023 - Feb, 2024",
+    "companyname": "Private Contractor",
+    "position": "MERN Stack Developer | Freelance",
+    "desc": "- Developed and maintained web applications using MongoDB, Express.js, React.js, and Node.js \n - Integrated third-party APIs and services \n - Implemented responsive designs and optimized performance"
   },
   {
     "id": 3,
-    "year": "Jun, 2020 - Jan, 2022",
-    "companyname": "Dots & Coms",
-    "position": "Web Developer | Full Time",
-    "desc": "- HTML, CSS, Bootstrap, Javascript, jQuery, Sass, Photoshop, Wordpress \n - Increase performance & speed of the website \n - SEO and Rankings"
+    "year": "Jun, 2021 - Dec, 2022",
+    "companyname": "Private Contractor",
+    "position": "LLM Training Specialist | Freelance",
+    "desc": "- Trained large language models (LLMs) for various natural language processing tasks \n - Created and annotated datasets \n - Fine-tuned models and evaluated performance"
   },
   {
     "id": 4,
-    "year": "Jan, 2020 - May, 2020",
-    "companyname": "Enovative Media",
-    "position": "Web Developer | Part Time",
-    "desc": "- HTML, CSS, Bootstrap, Javascript, jQuery \n - Wordpress (Elementor, Visual Composer, WP Bakery) \n - Customize themes"
+    "year": "Jan, 2020 - May, 2021",
+    "companyname": "Private Contractor",
+    "position": "Graphic Designer | Freelance",
+    "desc": "- Designed branding materials, including logos, brochures, and social media graphics \n - Worked with Adobe Creative Suite (Photoshop, Illustrator, InDesign) \n - Collaborated with clients to deliver visually appealing designs"
   }
 ]

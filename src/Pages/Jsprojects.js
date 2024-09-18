@@ -50,14 +50,14 @@ const Jsprojects = () => {
               <div className="row">
                 <div className="col-sm-6">
                   <a
-                    href="https://poojagarva28.github.io/React-Final/"
+                    href="https://github.com/krisyotam"
                     target="_blank"
                   >
                     <img src={pf3} alt="Ecommerce Small Project" />
                   </a>
                   <br />
                   <a
-                    href="https://github.com/poojagarva28/React-Final"
+                    href="https://github.com/krisyotam"
                     className="btn btn-default d-block github"
                     target="_blank"
                     rel="noreferrer"
@@ -77,12 +77,12 @@ const Jsprojects = () => {
             <div className="js">
               <div className="row">
                 <div className="col-sm-6">
-                  <a href="https://shoplane-by-pooja.glitch.me" target="_blank">
+                  <a href="https://github.com/krisyotam" target="_blank">
                     <img src={pf1} alt="Ecommerce Small Project" />
                   </a>
                   <br />
                   <a
-                    href="https://github.com/poojagarva28/shoplane"
+                    href="https://github.com/krisyotam"
                     className="btn btn-default d-block github"
                     target="_blank"
                     rel="noreferrer"
@@ -92,13 +92,13 @@ const Jsprojects = () => {
                 </div>
                 <div className="col-sm-6">
                   <a
-                    href="https://poojagarva28.github.io/project/"
+                    href="https://github.com/krisyotam"
                     target="_blank"
                   >
                     <img src={pf2} alt="Ecommerce Small Project" />
                   </a>
                   <a
-                    href="https://github.com/poojagarva28/project"
+                    href="https://github.com/krisyotam"
                     className="btn btn-default d-block github"
                     target="_blank"
                     rel="noreferrer"
